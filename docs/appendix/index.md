@@ -4,4 +4,4 @@ The following article presents the KG-OLAP framework:
 Christoph Schuetz, Loris Bozzato, Bernd Neumayr, Michael Schrefl, and Luciano Serafini  
 Semantic Web. 2020. In press.
 
-An online [Appendix](appendix.pdf) presents additional information for the paper.
+An online [Appendix](appendix.pdf) to that article gives additional information regarding formalization and implementation of the KG-OLAP framework.
