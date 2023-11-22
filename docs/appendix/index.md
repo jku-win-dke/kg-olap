@@ -1,6 +1,6 @@
 The following article presents the KG-OLAP framework:
 
-[Knowledge Graph OLAP: A Multidimensional Model and Query Operations for Contextualized Knowledge Graphs]([[http://www.semantic-web-journal.net/content/knowledge-graph-olap-multidimensional-model-and-query-operations-contextualized-knowledge-0](https://doi.org/10.3233/SW-200419)](https://doi.org/10.3233/SW-200419))  
+[Knowledge Graph OLAP: A Multidimensional Model and Query Operations for Contextualized Knowledge Graphs]([http://www.semantic-web-journal.net/content/knowledge-graph-olap-multidimensional-model-and-query-operations-contextualized-knowledge-0](https://doi.org/10.3233/SW-200419)](https://doi.org/10.3233/SW-200419))  
 Christoph Schuetz, Loris Bozzato, Bernd Neumayr, Michael Schrefl, and Luciano Serafini  
 Semantic Web 12(4): 649-683 (2021)
 
